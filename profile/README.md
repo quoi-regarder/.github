@@ -44,6 +44,7 @@ Nous respectons le **RGPD** et assurons que les données des utilisateurs resten
 ---
 
 ## 📞 Contact & Support  
+📧 **Email** : [regarderquoi@gmail.com](mailto:regarderquoi@gmail.com)  
 🌐 **Site web** : [quoi-regarder.fr](https://quoi-regarder.fr)   
 📱 **TikTok** : [TikTok](https://www.tiktok.com/@quoiregarder)
 ---
