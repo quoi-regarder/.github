@@ -16,8 +16,37 @@
 ---
 
 ## 🛠️ Technologies utilisées  
-- **Backend** : [AdonisJS v6](https://adonisjs.com/) avec **Supabase** pour la gestion des utilisateurs et des données.  
-- **Base de données** : PostgreSQL (hébergé sur Supabase).  
+- **Frontend** : [Nuxt](https://nuxt.com/) avec [NuxtUI](https://nuxtui.com/).  
+- **Backend** : [AdonisJS v6](https://adonisjs.com/).  
+- **Base de données** : PostgreSQL.  
 - **API** : Intégration avec [The Movie Database (TMDB)](https://www.themoviedb.org/).  
-- **Frontend** : Framework moderne avec une interface utilisateur fluide et intuitive.  
 - **Authentification** : Connexion par e-mail et via Google OAuth.  
+
+---
+
+## 🚫 Contributions & Développement  
+🚨 **Quoi Regarder est développé en interne par notre entreprise et nous n'acceptons pas les contributions externes.**  
+
+Nous travaillons en continu pour améliorer l'expérience utilisateur et ajouter de nouvelles fonctionnalités.  
+
+Si vous avez des suggestions ou des retours, n'hésitez pas à nous contacter via nos canaux officiels.  
+
+---
+
+## 🛡️ Sécurité et confidentialité  
+Nous respectons le **RGPD** et assurons que les données des utilisateurs restent privées et sécurisées.  
+✅ **Aucune publicité** ni **vente de données personnelles**.  
+✅ **Stockage sécurisé** et **authentification via OAuth**.  
+✅ **Les utilisateurs peuvent supprimer leur compte et leurs données** à tout moment.  
+
+📜 **[Politique de confidentialité](https://quoi-regarder.fr/regulation/privacy)**  
+
+---
+
+## 📞 Contact & Support  
+🌐 **Site web** : [quoi-regarder.fr](https://quoi-regarder.fr)   
+
+---
+
+## ⭐ Rejoignez-nous !  
+Si vous aimez notre plateforme, **partagez-la avec vos amis et laissez-nous vos retours !** 😊  
