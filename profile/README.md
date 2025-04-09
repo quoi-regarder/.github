@@ -17,7 +17,7 @@
 
 ## 🛠️ Technologies utilisées  
 - **Frontend** : [Nuxt](https://nuxt.com/) avec [NuxtUI](https://ui.nuxt.com/).  
-- **Backend** : [AdonisJS v6](https://adonisjs.com/).  
+- **Backend** : [Spring boot](https://spring.io/projects/spring-boot).  
 - **Base de données** : PostgreSQL.  
 - **API** : Intégration avec [The Movie Database (TMDB)](https://www.themoviedb.org/).  
 - **Authentification** : Connexion par e-mail et via Google OAuth.  
